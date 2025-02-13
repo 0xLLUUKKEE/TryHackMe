@@ -30,7 +30,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☐      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
 | ☐      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
 | ☐      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
-| ☐      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
+| ☑      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
 | ☐      | [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)         | Intro               |                                          |
 | ☐      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
 | ☐      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)     | Intro               |                                          |
@@ -40,7 +40,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☐      | [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)        | Tooling             |                                          |
 | ☐      | [Hydra](https://tryhackme.com/room/hydra)                                     | Tooling             |                                          |
 | ☐      | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)                      | Tooling             | [done](write-ups/level2/Linux%20PrivEsc) |
-| ☐      | [Shodan.io](https://tryhackme.com/room/shodan)                                | Tooling             |                                          |
+| ☑      | [Shodan.io](https://tryhackme.com/room/shodan)                                | Tooling             |                                          |
 | ☐      | [RustScan](https://tryhackme.com/room/rustscan)                               | Tooling             | [done](write-ups/level2/RustScan)        |
 | ☐      | [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)          | Tooling             |                                          |
 | ☐      | [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)          | Tooling             |                                          |
