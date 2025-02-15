@@ -39,7 +39,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
 | ☑      | [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)        | Tooling             |                                          |
 | ☐      | [Hydra](https://tryhackme.com/room/hydra)                                     | Tooling             |                                          |
-| ☐      | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)                      | Tooling             | [done](write-ups/level2/Linux%20PrivEsc) |
+| ☑      | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)                      | Tooling             | [done](write-ups/level2/Linux%20PrivEsc) |
 | ☑      | [Shodan.io](https://tryhackme.com/room/shodan)                                | Tooling             |                                          |
 | ☐      | [RustScan](https://tryhackme.com/room/rustscan)                               | Tooling             | [done](write-ups/level2/RustScan)        |
 | ☐      | [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)          | Tooling             |                                          |
